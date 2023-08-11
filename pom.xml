@@ -6,7 +6,11 @@
 
     <groupId>com.example</groupId>
     <artifactId>dictionary</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>version1</module>
+    </modules>
     <name>dictionary</name>
 
     <properties>
